@@ -412,7 +412,7 @@ try {
 }
 #----------------------------------------------------------------------------------------------------
  
-Set-WallPaper -Image "$Env:USERPROFILE\Desktop\$ImageName.jpg" -Style Center
+Set-WallPaper -Image "$Env:USERPROFILE\OneDrive\Desktop\$ImageName.jpg" -Style Center
 
 clean-exfil
  
